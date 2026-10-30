@@ -59,10 +59,10 @@ Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**,
 ---
 ## 🛠️ Getting Started
 
-🔹 **Download the source code:** [GameHub Project](https://github.com/GRISHMA-GEDELA/GameHub-Python.git)  
+🔹 **Download the source code:** [GameHub Project](https://github.com/bhanuprakash0907/GameHub)  
 🔹 **Run the script** and have fun! 🎉
 
 ---
 ## 🙌 Thank You!
-👩‍💻 **Developed by:** Grishma Gedela ([GRISHMA-GEDELA](https://github.com/GRISHMA-GEDELA), GameHub)
+👩‍💻 **Developed by:** UPPUTHALA BHANU PRAKASH ([BHANU PRAKASH-UPPUTHALA](https://github.com/bhanuprakash0907), GameHub)
 
